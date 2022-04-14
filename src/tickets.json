@@ -1,0 +1,222 @@
+[
+  {
+    "status": "New",
+    "category": "doors",
+    "tickets": [
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      }
+    ]
+  },
+  {
+    "status": "Manager Feedback",
+    "category": "gutters",
+    "tickets": [
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      }
+    ]
+  },
+  {
+    "status": "Processing",
+    "category": "siding",
+    "tickets": [
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      }
+    ]
+  },
+  {
+    "status": "Awaiting Feedback",
+    "category": "error",
+    "tickets": [
+      {
+        "title": "Unexpected Fail",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Joe Smith",
+        "AssignedUrl": ""
+      } 
+    ]
+  },
+  {
+    "status": "Approved",
+    "category": "success",
+    "tickets": [
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Unexpected Fail",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      },
+      {
+        "title": "Missing Part",
+        "AssignedName": "Anna Black",
+        "AssignedUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+      }
+    ]
+  }
+]

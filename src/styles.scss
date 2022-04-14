@@ -1,0 +1,30 @@
+@import "playbook-ui/dist/reset.css";
+@import "playbook-ui/dist/tokens/colors.scss";
+@import "fonts";
+
+.App {
+  // Styles Here;
+ 
+}
+
+.toolbar-title {
+  margin-bottom: -10px !important;
+}
+
+.container {
+ width: 90%;
+ margin: auto
+}
+@media only screen and (max-width: 720px) {
+    .container {
+      width: 90%;
+    }
+}
+
+.ticketHeader {
+  height: 60px;
+}
+
+.statCard {
+  height:100%
+}
